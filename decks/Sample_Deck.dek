@@ -1,0 +1,21 @@
+<deck version="0.8">
+	<meta>
+		<game>BeastBattlers</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="2BagofHolding.png">Bag of Holding</name><set>Set1</set></card>
+		<card><name id="2BagofHolding.png">Bag of Holding</name><set>Set1</set></card>
+		<card><name id="4Vampire.png">Vampire</name><set>Set1</set></card>
+		<card><name id="4Vampire.png">Vampire</name><set>Set1</set></card>
+		<card><name id="4Vampire.png">Vampire</name><set>Set1</set></card>
+		<card><name id="5Phantom.png">Phantom</name><set>Set1</set></card>
+		<card><name id="8Adventurer.png">Adventurer</name><set>Set1</set></card>
+		<card><name id="8Adventurer.png">Adventurer</name><set>Set1</set></card>
+		<card><name id="8Adventurer.png">Adventurer</name><set>Set1</set></card>
+		<card><name id="9Demon.png">Demon</name><set>Set1</set></card>
+		<card><name id="9Demon.png">Demon</name><set>Set1</set></card>
+		<card><name id="10Warforged.png">Warforged</name><set>Set1</set></card>
+		<card><name id="HeroJack.png">Aurelius Redwolf</name><set>Set1</set></card>
+		<card><name id="HeroQueen.png">Commodus Solara</name><set>Set1</set></card>
+	</superzone>
+</deck>

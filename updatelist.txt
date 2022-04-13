@@ -1,0 +1,26 @@
+BeastBattlers	04-13-22
+plugins/BeastBattlers/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/BeastBattlers/plugininfo.txt	273733
+plugins/BeastBattlers/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/BeastBattlers/pluginpreferences.txt	286672
+plugins/BeastBattlers/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/carddata.txt	213273
+plugins/BeastBattlers/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/BeastBattlers/CardImageURLs1.txt	146584
+plugins/BeastBattlers/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/BeastBattlers/defaultchat.txt	10739
+plugins/BeastBattlers/decks/Sample_Deck.dek	https://raw.githubusercontent.com/wishmstr/BeastBattlers/decks/Sample_Deck.dek	95516
+plugins/BeastBattlers/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/general/cardback.png	5821
+plugins/BeastBattlers/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/general/spawned.jpg	1325763
+plugins/BeastBattlers/sets/setimages/Set1/10Warforged.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/10Warforged.png	79163
+plugins/BeastBattlers/sets/setimages/Set1/2BagofHolding.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/2BagofHolding.png	81651
+plugins/BeastBattlers/sets/setimages/Set1/3Goblin.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/3Goblin.png	59867
+plugins/BeastBattlers/sets/setimages/Set1/4Vampire.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/4Vampire.png	50513
+plugins/BeastBattlers/sets/setimages/Set1/5Phantom.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/5Phantom.png	-14839
+plugins/BeastBattlers/sets/setimages/Set1/6Mimic.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/6Mimic.png	43320
+plugins/BeastBattlers/sets/setimages/Set1/7Illithid.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/7Illithid.png	54217
+plugins/BeastBattlers/sets/setimages/Set1/8Adventurer.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/8Adventurer.png	133846
+plugins/BeastBattlers/sets/setimages/Set1/9Demon.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/9Demon.png	5380
+plugins/BeastBattlers/sets/setimages/Set1/HeroAce.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroAce.png	10908
+plugins/BeastBattlers/sets/setimages/Set1/HeroJack.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroJack.png	17495
+plugins/BeastBattlers/sets/setimages/Set1/HeroJoker.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroJoker.png	62845
+plugins/BeastBattlers/sets/setimages/Set1/HeroKing.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroKing.png	23718
+plugins/BeastBattlers/sets/setimages/Set1/HeroQueen.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroQueen.png	47040
+CardURLFiles:
+CardImageURLs1.txt
+

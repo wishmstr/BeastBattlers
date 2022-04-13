@@ -1,0 +1,15 @@
+CardImageURLs:
+Set1/10Warforged.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/10Warforged.png
+Set1/2BagofHolding.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/2BagofHolding.png
+Set1/3Goblin.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/3Goblin.png
+Set1/4Vampire.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/4Vampire.png
+Set1/5Phantom.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/5Phantom.png
+Set1/6Mimic.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/6Mimic.png
+Set1/7Illithid.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/7Illithid.png
+Set1/8Adventurer.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/8Adventurer.png
+Set1/9Demon.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/9Demon.png
+Set1/HeroAce.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroAce.png
+Set1/HeroJack.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroJack.png
+Set1/HeroJoker.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroJoker.png
+Set1/HeroKing.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroKing.png
+Set1/HeroQueen.png	https://raw.githubusercontent.com/wishmstr/BeastBattlers/sets/setimages/Set1/HeroQueen.png

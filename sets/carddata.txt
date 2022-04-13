@@ -1,0 +1,15 @@
+Name	Set	ImageFile	BattlePower	BattlerType	CardEffect
+Bag of Holding	Set1	2BagofHolding.png	2	ANY	You may choose 1 of 4: Add a d6 to your gold pouch, Shuffle a card from your discard pile into your deck, End a battle, or Slay a dragon. Can only choose each one once per game.
+Goblin	Set1	3Goblin.png	3	ANY	Pack Tactics: This card gets 3 Power for every Goblin in your discard pile.
+Vampire	Set1	4Vampire.png	4	ANY	HAND Life Drain: Add a d6 to your life.
+Phantom	Set1	5Phantom.png	5	ANY	HAND Possession: Take control of your opponent's Battler.  They gain control of this card.
+Mimic	Set1	6Mimic.png	6	ANY	HAND Check for Traps: Place your opponent's Battler in the discard pile.  Your opponent gains control of this card.
+Illithid	Set1	7Illithid.png	7	ANY	HAND Consume: Choose one: Remove d6 from your opponent's gold pouch, You may force your opponent to re-roll a dice this round.
+Adventurer	Set1	8Adventurer.png	8	ANY	HAND Destined Fight: Neither player may swap this combat.
+Demon	Set1	9Demon.png	9	ANY	Pact: When you play this card, take 1 damage.
+Warforged	Set1	10Warforged.png	10	ANY	The Price: When this card is played, remove a d6 from your gold pouch.  If you do not, place this card in your discard pile and reveal a new Battler from your deck.
+Aurelius Redwolf	Set1	HeroJack.png	10	Hero-Jack	Reckless Innovation: Draw 2 cards.  Automatically defeats Kings.
+Commodus Solara	Set1	HeroQueen.png	10	Hero-Queen	Government Funding: Gain 2d6 gold to your pouch.  Automatically defeats Jacks.
+The Unnamed One	Set1	HeroKing.png	10	Hero-King	World Ender: This battle cannot be stopped.  Place the top card of your deck in the discard pile, and add its power to this one.  If this card wins the battle your opponent takes 2 damage.  Automatically defeats Queens.
+Dragon	Set1	HeroAce.png	11	Hero-Ace	Flame breath: Roll a d6 and add it to this cards power. Legendary Resistance: This card is unaffected by opposing card affects.
+Quest for Wish	Set1	HeroJoker.png	*	Hero-Joker	Hero's Journey:  When revealed, if there are cards in your deck, place this card at the bottom and play the top card of your deck.  If revealed and there are no cards in your deck, but there are cards in your hand you must swap this card for one of them.  The first time this card is played and there are no cards in your deck or hand, shuffle your discard pile into your deck and place this card at the bottom.  The second time this would happen, you win the game.

@@ -1,0 +1,23 @@
+!+1d6!/player stat1 + 1
+!-1d6!/player stat1 - 1
+!Roll 1d6!/roll
+!Roll 2d6!/roll 2
+!Roll 3d6!/roll 3
+!Flip Coin!/flip
+Good game.
+shucks
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
